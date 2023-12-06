@@ -1,0 +1,30 @@
+body{background-color: #b7e4c7;}
+#ROYAL{
+text-align: center;
+font-size: 75px;
+margin-bottom: 0%;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: #081c15;}
+#SLOGAN{ text-align: right;
+margin-right: 200px;
+font-size: 40px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: black;}
+#NAVBAR{ width: 100px;
+display: inline;
+background-color: #081c15;
+font-size: 20px;
+margin-left: 20px;}
+A{margin-right: 105px;
+text-decoration: none;
+color: #b7e4c7;}
+main{height: 400px;}
+hr{color: black;}
+footer{ text-align: center;
+font-size: 100px;}
+MAIN{ text-align: center;
+}
+form{margin-top: 100px;
+background-color: bisque;
+font-size: 50px;
+}
